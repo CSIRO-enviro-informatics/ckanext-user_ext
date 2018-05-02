@@ -1,0 +1,2 @@
+sqlalchemy-migrate==0.10.0
+SQLAlchemy==0.9.6
